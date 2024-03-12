@@ -11,7 +11,6 @@ entries:
     urls:
     - https://nsmbo.github.io/quotes-0.1.0.tgz
     version: 0.1.0
-  argo-cd:
   - annotations:
       artifacthub.io/changes: |
         - kind: fixed
