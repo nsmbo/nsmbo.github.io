@@ -11,4 +11,14 @@ entries:
     urls:
     - https://nsmbo.github.io/quotes-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-11T19:49:17.2591875+01:00"
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2024-03-12T09:33:42.0955208+01:00"
+    description: A nice quote api
+    digest: 00fcf7f4fe53ac29d4bcfa398c8bb24d89cfe148f6d5905810aa834914284a32
+    name: quotes
+    type: application
+    urls:
+    - https://nsmbo.github.io/quotes-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-03-12T09:33:42.0955208+01:00"
