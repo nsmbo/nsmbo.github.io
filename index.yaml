@@ -9,6 +9,6 @@ entries:
     name: quotes
     type: application
     urls:
-    - https://nsmbo.github.io/index.yaml/quotes-0.1.0.tgz
+    - https://nsmbo.github.io/quotes-0.1.0.tgz
     version: 0.1.0
 generated: "2024-03-11T19:49:17.2591875+01:00"
